@@ -1,0 +1,12 @@
+ The Expendables , 11:00 am to 01:00 pm,100,1
+ The Expendables , 05:00 pm to 07:00 pm,100,1
+ Home Alone , 01:15 am to 03:15 pm,100,1
+ Home Alone , 05:15 pm to 07:15 pm,100,1
+ Past Lives , 03:30 am to 05:30 pm,100,1
+ Past Lives , 07:30 pm to 09:30 pm,100,1
+ Avenger End Game , 11:00 am to 01:00 pm,100,1
+ Avenger End Game , 05:00 pm to 07:00 pm,100,1
+ Mask , 01:15 am to 03:15 pm,100,1
+ Mask , 05:15 pm to 07:15 pm,100,1
+ Finestkind , 03:30 am to 05:30 pm,100,1
+ Finestkind , 07:30 pm to 09:30 pm,100,1
